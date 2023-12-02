@@ -38,7 +38,7 @@ header {
 	-webkit-background-size: cover;
 	text-align: center;
 	overflow: hidden;
-	background-color: #e9d5a1;
+	background-color: #45C4B0;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -231,7 +231,8 @@ header h1 {
 }
 
 #resume {
-	background: #efe1bd;
+border: solid red 1px;
+	background: #DAFDBA;
 }
 
 .experience-icon {
@@ -353,7 +354,9 @@ header h1 {
 }
 
 #portfolio {
-	background: #efe1bd;
+	background-image: url('../public/greenBackgroundold.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
 	padding-bottom: 5%;
 }
 
@@ -389,7 +392,7 @@ header h1 {
 }
 
 #skills {
-	background: #1F1F1F;
+	background: rgb(31, 190, 124);
 	min-height: 200px;
 	width: 100%;
 	overflow: hidden;
