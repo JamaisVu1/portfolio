@@ -38,7 +38,9 @@ header {
 	-webkit-background-size: cover;
 	text-align: center;
 	overflow: hidden;
-	background-color: #45C4B0;
+	background-image: url('../public/greenBackgroundold.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -353,9 +355,7 @@ header h1 {
 }
 
 #portfolio {
-	background-image: url('../public/greenBackgroundold.jpg');
-    background-size: cover;
-    background-repeat: no-repeat;
+	background: #DAFDBA;
 	padding-bottom: 5%;
 }
 
